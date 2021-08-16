@@ -16,3 +16,7 @@ If you are looking to use this in your own app - the main files you will need ar
 This app was built with Expo. To create a free account with Expo just follow the [Setting Up](https://reactnative.dev/docs/environment-setup) docs for React Native.
 
 Once you have an account and have cloned this repo, just run `yarn start`.
+
+
+## Example
+https://user-images.githubusercontent.com/4819738/129599159-5bb3435c-7842-4705-bd1f-26c6dc78d68d.MP4
